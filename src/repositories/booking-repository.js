@@ -33,6 +33,5 @@ class BookingRepository extends CrudRepository {
 }
 
 
-module.exports = {
-    BookingRepository,
-};
+module.exports = BookingRepository
+
